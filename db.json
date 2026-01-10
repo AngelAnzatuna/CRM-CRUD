@@ -1,13 +1,6 @@
 {
   "clientes": [
     {
-      "id": "955d",
-      "nombre": "Angel",
-      "email": "angel@correo.co",
-      "telefono": "09123456789",
-      "empresa": "Angel Company"
-    },
-    {
       "id": "95a2",
       "nombre": "Isis",
       "email": "isis@correo.com",
